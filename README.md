@@ -1,7 +1,7 @@
 <h1 align="center">Vitor Lopes Nunes</h1>
 
 <p align="center">Estudante de <strong>Desenvolvimento de Sistemas</strong> 💻</p>
-<p align="center">ETEC Cidade do Livro (2/3) </p>
+<p align="center">ETEC Cidade do Livro</p>
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/vitor-lopes-nunes"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=""> </a> 
